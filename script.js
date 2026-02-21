@@ -28,3 +28,13 @@ console.log("Пример 1: 85 % 4 = 1 Ваш ответ " + a);
 
 
 
+let x = prompt('Первое число');
+let y = prompt('Второе число');
+let z = prompt('Третье число');
+
+let sum = Number(x) + Number(y)+ Number(z);
+let res = sum / 3;
+
+
+
+
